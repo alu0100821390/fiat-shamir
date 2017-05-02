@@ -1,17 +1,17 @@
 ####################################################################
-## Universidad de La Laguna						 				  ##
-## Escuela Superior de Ingeniería y Tecnología	 				  ##
-## Grado en Ingeniería Informática				 				  ##
-## Seguridad en Sistemas Informáticos			 				  ##
-## Fecha: 02/05/2017							 				  ##
-## Autor: Kevin Estévez Expósito (alu0100821390) 				  ##
-## 																  ##
-## Práctica 7: Algoritmo de Fiat-Shamir							  ##
+## Universidad de La Laguna					  ##
+## Escuela Superior de Ingeniería y Tecnología	 		  ##
+## Grado en Ingeniería Informática				  ##
+## Seguridad en Sistemas Informáticos			 	  ##
+## Fecha: 02/05/2017						  ##
+## Autor: Kevin Estévez Expósito (alu0100821390) 		  ##
+## 								  ##
+## Práctica 7: Algoritmo de Fiat-Shamir				  ##
 ## Descripción: Demostración de conocimiento nulo de Fiat-Shamir. ##
-##				Se realizan todas las iteraciones con e=0,		  ##
-##				excepto la última, que se hace con e=1.			  ##
-##											 					  ##
-## Ejecución: py fiat-shamir_mod.py								  ##
+##		Se realizan todas las iteraciones con e=0,	  ##
+##		excepto la última, que se hace con e=1.		  ##
+##								  ##
+## Ejecución: py fiat-shamir_mod.py				  ##
 ####################################################################
 
 
