@@ -1,16 +1,18 @@
-# Práctica 7: Algoritmo de Fiat-Shamir
+# Seguridad en Sistemas Informáticos
 
-## Introducción
+## Práctica 7: Algoritmo de Fiat-Shamir
+
+### Introducción
 
 Demostración de conocimiento nulo de Fiat-Shamir.
 
-## Ejecución
+### Ejecución
 
 ~~~
     py fiat-shamir.py
 ~~~
 
-## Información personal
+### Información personal
 
 **Autor:** [Kevin Estévez Expósito](https://alu0100821390.github.io/)
 
